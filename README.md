@@ -26,6 +26,7 @@ Data Visualization
 
 # 📊 Dashboard Pages
 🔹 Page 1:  Marketing Performence Overview
+<img width="671" height="382" alt="image" src="https://github.com/user-attachments/assets/b123019a-5071-4de2-839b-27d8ef498083" />
 
 Total Customers
 
