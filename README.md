@@ -50,6 +50,7 @@ KPIs: Average Spend per Customer, Average Income
 slicers for better user experience
 
 🔹 Page 3: Sales & campagin Performence
+<img width="674" height="380" alt="image" src="https://github.com/user-attachments/assets/cd6fb900-c5c8-4416-ad09-e3c346c2bb07" />
 
 Total Spend by Product product
 
