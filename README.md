@@ -39,6 +39,7 @@ Total Spend
 Interactive slicers for filtering data
 
 🔹 Page 2: Customer Profile Overview
+<img width="672" height="382" alt="image" src="https://github.com/user-attachments/assets/6d469a9e-d7b8-44c5-82ea-3760f9582fb1" />
 
 Customer distribution by Age Group
 
